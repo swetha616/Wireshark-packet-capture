@@ -21,7 +21,7 @@ The goal is to identify common protocols and understand basic traffic patterns.
 | File Name                     | Description                                   |
 |--------------------------------|-----------------------------------------------|
 | `network_capture_task5.pcap`   | Captured network packets                     |
-| `protocols_report.txt`         | Summary of identified protocols              |
+| `network_traffic_analysis_report.pdf`         | Summary of task and protocols identified             |
 
 ## ⚠ Disclaimer
 - Local/private IP addresses (e.g., `192.168.x.x`, `10.x.x.x`, `172.16.x.x`) may appear in the `.pcap` file, but these are not publicly routable and pose no security risk.
